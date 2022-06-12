@@ -2,6 +2,10 @@
 
 ### [Site link](https://hostlife22.github.io/todoList/)
 
+<kbd>
+  <img align="right" alt="img" src="eQAyHfo.jpeg"  />
+ </kbd>
+
 ### The tech stack is:
 
 - [JavaScript](https://ru.wikipedia.org/wiki/JavaScript)
